@@ -7,3 +7,8 @@ Basically it allows you to rent apartments in lagos using the virtual estate age
 
 #### How I built it
 It's currently still in the works, but a mobile app is been built with it's landing page on the web.
+
+
+The landing page is online here https://atanda1.github.io/thenewteam/
+
+And the mobile app prototype is on my team mate's repo https://github.com/Drgleave/newhome/
